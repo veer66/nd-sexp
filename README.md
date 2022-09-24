@@ -5,5 +5,4 @@ newline delimited s-expressions
  
 ## License
 
-Specify license here
-
+Apache-2.0
