@@ -1,8 +1,8 @@
 # nd-sexp
-### _Your Name <your.name@example.com>_
+### _Vee Satayamas <vsatayamas@gmail.com>_
 
-This is a project to do ... something.
-
+newline delimited s-expressions 
+ 
 ## License
 
 Specify license here
